@@ -13,5 +13,6 @@
 	"dependencies": {
 		"@ensdomains/address-encoder": "^1.1.2",
 		"viem": "^2.17.10"
-	}
+	},
+	"packageManager": "pnpm@7.8.0+sha512.8f36fdfe0b68e27c2e540da2b53464d0f261b9a65c035341441dbdf14cd786a29940c8ed1c24be28bce1ed15a4e67de0f8a9cc839147afa3308352fad9d073d4"
 }
