@@ -1,0 +1,17 @@
+{
+	"name": "cointype-worker",
+	"version": "0.0.0",
+	"scripts": {
+		"dev": "wrangler dev"
+	},
+	"devDependencies": {
+		"@cloudflare/workers-types": "^4.20240722.0",
+		"typescript": "^5.5.4",
+		"vitest": "^2.0.4",
+		"wrangler": "^3.65.1"
+	},
+	"dependencies": {
+		"@ensdomains/address-encoder": "^1.1.2",
+		"viem": "^2.17.10"
+	}
+}
